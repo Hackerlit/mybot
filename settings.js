@@ -54,7 +54,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['50936411448'] //ur owner number
+global.vcardowner = ['50941411147'] //ur owner number
 global.ownername = "andymrlit" //ur owner name
 global.ytname = "IG: andylit" //ur yt chanel name
 global.socialm = "INSTA: andy_mr_lit" //ur github or insta name
@@ -64,9 +64,9 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.owner = ['50941411147']
 global.ownertag = '50941411147' //ur tag number
 global.botname = 'ANDY LIT BOT V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
+global.linkz = "https://youtu.be/" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.botscript = 'https://github.cot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
